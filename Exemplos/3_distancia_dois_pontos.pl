@@ -11,3 +11,5 @@ posicao(i,10,9).
 distancia(J,K,D) :- posicao(J, Xj, Yj),
     				posicao(K, Xk, Yk),
     				D is sqrt((Xj-Xk)**2 + (Yj-Yk)**2).
+
+% distancia(a,Xi,D).
