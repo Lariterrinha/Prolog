@@ -1,9 +1,10 @@
 % *** Exemplo: definicao de novos operadores
 
-%tem(pedro, informacoes).
+%tem(ana, informacoes).
  :- op(600, xfx, tem).
-pedro tem informacoes.
-maria tem informacoes.
+ana tem informacoes.
+ana tem contatos.
+eliel tem informacoes.
 
-% tem(maria,X)
+% tem(eliel,X)
 % X tem informacoes
