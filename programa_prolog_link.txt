@@ -1,0 +1,15 @@
+1_definicao_operadores.pl
+2_ancestrais.pl
+3_distancia_dois_pontos.pl
+4_fatorial.pl
+5_insercton_short.pl
+
+
+https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F4_fatorial.pl
+
+
+1_definicao_operadores.pl​:  https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F1_definicao_operadores.pl 
+2_ancestrais.pl:​ https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F2_ancestrais.pl
+3_distancia_dois_pontos.pl: ​https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F3_distancia_dois_pontos.pl
+4_fatorial.pl​:  https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F4_fatorial.pl
+5_insercton_short.pl​ https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F5_insercton_short.pl
