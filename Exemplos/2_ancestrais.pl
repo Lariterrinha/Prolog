@@ -7,4 +7,6 @@ progenitor(ana, pedro).
 ancestral(X, Y) :- progenitor(X, Y).
 ancestral(X, Y) :- progenitor(X, Z), ancestral(Z, Y).
 
+avo(X,Z) :- progenitor(X,Y), progenitor(Y,Z).
+
 % ancestral(X, pedro).
