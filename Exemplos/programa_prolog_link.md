@@ -1,18 +1,24 @@
 ## Exemplos no SWISH ONLINE
 
-[0_simpsons.pl:](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_soma_prolog_haskell.pl0_simpsons.pl)
+### Links:
 
-[0_soma_prolog_haskell.pl:](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_soma_prolog_haskell.pl)
+[0_simpsons.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_soma_prolog_haskell.pl0_simpsons.pl)
 
-[0_entradas_e_saidas.pl:](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_entradas_e_saidas.pl)
+[0_soma_prolog_haskell.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_soma_prolog_haskell.pl)
 
-[1_definicao_operadores.pl​:](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F1_definicao_operadores.pl)
+[0_entradas_e_saidas.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_entradas_e_saidas.pl)
 
-[2_ancestrais.pl:​](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F2_ancestrais.pl)
+[1_definicao_operadores.pl​](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F1_definicao_operadores.pl)
 
-[3_distancia_dois_pontos.pl:](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F3_distancia_dois_pontos).pl
+[2_ancestrais.pl​](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F2_ancestrais.pl)
 
-[4_fatorial.pl​:](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F4_fatorial.pl)
+[3_distancia_dois_pontos.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F3_distancia_dois_pontos.pl)
+
+[4_fatorial.pl​](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F4_fatorial.pl)
 
 [5_insercton_short.pl]​(https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F5_insercton_short.pl)
+
+
+
+
 
