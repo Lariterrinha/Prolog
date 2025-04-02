@@ -27,6 +27,6 @@ Este repositório reúne arquivos de código e documentos úteis para o estudo e
 
 [4_fatorial.pl​](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F4_fatorial.pl)
 
-[5_insercton_short.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F5_insercton_short.pl))
+[5_insercton_short.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F5_insercton_short.pl)
 
 
