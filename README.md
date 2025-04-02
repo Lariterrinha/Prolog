@@ -13,7 +13,7 @@ Este repositório reúne arquivos de código e documentos úteis para o estudo e
 
 ### Links:
 
-[0_simpsons.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_soma_prolog_haskell.pl0_simpsons.pl)
+[0_simpsons.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_simpsons.pl)
 
 [0_soma_prolog_haskell.pl](https://swish.swi-prolog.org/?code=https%3A%2F%2Fraw.githubusercontent.com%2FLariterrinha%2FProlog%2Fmain%2FExemplos%2F0_soma_prolog_haskell.pl)
 
