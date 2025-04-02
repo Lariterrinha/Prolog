@@ -1,8 +1,8 @@
 Repositório de códigos e materiais sobre Prolog.
 
-## Apresentação
+## Seminario sobre prolog
 
-Você pode conferir a apresentação oficial neste link:
+Você pode conferir a apresentação neste link:
 [Apresentação no Canva](https://www.canva.com/design/DAGfkka63g0/nUaWpuhItdtzrDyMYJnk8g/edit)
 
 ## Conteúdo do Repositório
